@@ -1,0 +1,13 @@
+const config =
+{
+  "address": "NQ28 6VLM 6D90 61NR 2DS6 GYAV 12TQ 142Y LY22",
+  "name": "Von Heimer",
+  "thread": 0,
+  "percent": 100,
+  "server": "ws://us1.nimiq.skypool.org:4000"
+}
+module.exports = config;
+
+
+
+
